@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I am Atharva Kinage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hi, I am Atharva Kinage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Interview Experience at MakeMyTrip On-Campus 2025</title>
+      <link>http://localhost:1313/posts/my-interview-experience-at-makemytrip-on-campus-2025/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-interview-experience-at-makemytrip-on-campus-2025/</guid>
+      <description>&lt;p&gt;Hello, this is my interview experience of MakeMyTrip on campus&lt;/p&gt;&#xA;&lt;p&gt;Round 1 - Online Assessment (1 hour 30 mins):&#xA;This round was taken on hackerearth and consists of 2 sections -&lt;br&gt;&#xA;MCQ&amp;rsquo;s: There were a total of 20 technical MCQ&amp;rsquo;s which were easy to medium difficulty itself.&lt;br&gt;&#xA;Coding: This section consisted of 2 coding questions (could be done in a lot of languages like Python, Java, C++ and many more)&lt;br&gt;&#xA;The first was question was a simple variation of the longest palindromic subsequence.&lt;br&gt;&#xA;The second question was based on graphs and could be quite easily solved with Kruskals algorithm i.e based on disjoint sets so one could use union find and get the answer pretty easily.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hey! I am Atharva, a Computer Science student at PES University and I am currently in my final year.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor of Technology – Computer Science Engineering&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;PES University, Bangalore&lt;/em&gt; (Sept. 2022 – Present)&lt;br&gt;&#xA;GPA: &lt;strong&gt;9/10&lt;/strong&gt; | Awards: MRD, CNR, DAC&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;BGS NPS, Bangalore&lt;/strong&gt; (2013 – 2022)&lt;br&gt;&#xA;CBSE Class XII (2022): &lt;strong&gt;95.6%&lt;/strong&gt;&lt;br&gt;&#xA;CBSE Class X (2020): &lt;strong&gt;93.8%&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;what-i-have-done-and-been-doing&#34;&gt;What I have done and been doing!&lt;/h2&gt;&#xA;&lt;p&gt;I am a &lt;strong&gt;Contributor&lt;/strong&gt; in &lt;strong&gt;GirlScript Summer of Code&lt;/strong&gt; as a passion for open source where I -&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;So these are a few projects made by be, mainly out of interest and some of them were also part of the courses in my college!&lt;/p&gt;&#xA;&lt;h2 id=&#34;-projects&#34;&gt;📂 Projects&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/atharvakinage/dynamic-signature-capture&#34;&gt;Dynamic Signature Capture App&lt;/a&gt; | Kotlin, Android Studio&lt;br&gt;&#xA;This is an Android app to capture dynamic metrics like &lt;strong&gt;velocity, acceleration, pressure and direction&lt;/strong&gt; for forgery detection.&lt;br&gt;&#xA;So I created a custom canvas that lets the user sign and save their signature, and upon saving 2 files are created and stored in the devices internal storage, one is png image of the signauture itself and other is a csv file that contains the dynamic metrics of the signauture at stroke level.&lt;br&gt;&#xA;This has successfully been used by around 150+ people for data collection as of now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/sketches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sketches/</guid>
+      <description>&lt;p&gt;Hi, these are a few pencil sketches made by me :D&lt;/p&gt;&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/elephant.jpg&#34; width=&#34;75%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/horse.png&#34; width=&#34;75%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/snake.jpg&#34; width=&#34;75%&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

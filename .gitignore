@@ -1,0 +1,6 @@
+public/
+resources/
+data/
+i18n/
+assets/
+.hugo_build.lock
